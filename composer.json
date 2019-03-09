@@ -1,0 +1,13 @@
+{
+    "name": "casas/http_client",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pere Casas",
+            "email": "pcasas.pere@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}
